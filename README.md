@@ -6,7 +6,7 @@
 "babel-preset-latest": "^6.24.1",
 ```
 
-上面这三个主要是将ES6等以上的转变为ES5的;
+上面这三个主要是将ES6等以上的转变为ES5;
 
 `babel-plugin-transform-runtime`:用于使用 async await
 
@@ -40,8 +40,10 @@ postcss-loader": "^3.0.0",
  "webpack-dev-server": "^3.7.2"  //开发模式下的静态服务
 ```
 
-
+## 补充依赖
+```shell
 sudo npm i ejs -D
+```
 
 
 
